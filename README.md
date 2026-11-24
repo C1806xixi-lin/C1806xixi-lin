@@ -1,4 +1,4 @@
-![Midnight Blue portfolio banner: Technology meets opportunity. AI, Cloud, and Technical Solutions.](./assets/ai-infrastructure-banner.svg)
+![Animated Midnight Blue portfolio banner: Technology meets opportunity. AI, Cloud, and Technical Solutions.](./assets/ai-infrastructure-banner-animated.svg)
 
 # Hi, I’m C127xixi-lin
 
