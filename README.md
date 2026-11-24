@@ -6,6 +6,8 @@ I work on AI infrastructure planning with a focus on healthcare. My notes here c
 
 I’m interested in customer-facing technical support, solutions engineering, and technical pre-sales roles.
 
+**Education:** University of Science and Technology of China (USTC), dual degree in Electronic Information and Science Communication.
+
 ## Projects
 
 ### [500 PFLOP/s healthcare AI compute center](./case-studies/healthcare-ai-compute-center.md)
