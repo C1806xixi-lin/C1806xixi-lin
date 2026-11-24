@@ -20,6 +20,12 @@ I’m interested in making complex AI infrastructure easier to evaluate, explain
 
 ## Selected Work
 
+### [LLM Latency Troubleshooting](https://github.com/C1806xixi-lin/llm-latency-troubleshooting)
+
+A reproducible support lab for slow first tokens in streamed LLM responses. Measure **TTFT** and **TPOT**, then use synthetic traces to distinguish queueing, long-prompt prefill, and slow decode. Includes a local Python demo, a comparison chart, and an English troubleshooting runbook.
+
+*Simulated workload; no GPU or production data required.*
+
 **Sizing a 300 PFLOP/s AI training cluster**
 
 Given a hypothetical customer brief, I clarify what “300P” means, estimate the first-pass GPU and rack requirements, and lay out how to validate network, training, and storage performance before procurement.
