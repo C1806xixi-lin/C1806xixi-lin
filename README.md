@@ -67,6 +67,6 @@ This example is based on a Markdown configuration skill and an HTML report templ
 
 ## Let’s Connect
 
-[GitHub](https://github.com/C127xixi-lin) · **WeChat: inspiration1806**
+[GitHub](https://github.com/C1806xixi-lin) · **WeChat: inspiration1806**
 
 Outside of tech, I enjoy exploring the world.
