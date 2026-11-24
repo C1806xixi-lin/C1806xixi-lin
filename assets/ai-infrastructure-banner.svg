@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title">
+<title id="title">Midnight blue banner with a schematic of a cluster network</title>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090F1D"/><stop offset="1" stop-color="#14284A"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#4BD6E7"/><stop offset="1" stop-color="#6892FA"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#83A7EA" stroke-opacity=".11"/></pattern>
+</defs>
+<rect width="1200" height="260" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="258" rx="21" fill="none" stroke="#2D4469"/>
+<path d="M628 1h550a21 21 0 0 1 21 21v216a21 21 0 0 1-21 21H628z" fill="url(#grid)"/>
+<rect x="58" y="58" width="31" height="3" rx="1.5" fill="#4BD6E7"/>
+<text x="102" y="66" font-family="monospace" font-size="18" font-weight="600" letter-spacing="3" fill="#9DB8E8">TECHNICAL PORTFOLIO</text>
+<text x="58" y="145" font-family="system-ui, sans-serif" font-weight="700" font-size="53" fill="#F2F6FF">AI Infrastructure</text>
+<text x="61" y="190" font-family="system-ui, sans-serif" font-size="25" fill="#A9C1E9">Technical Solutions</text>
+<path d="M59 221H557" stroke="#294266"/>
+<g fill="none" stroke="#29466D"><rect x="654" y="38" width="485" height="186" rx="16"/><path d="M679 129h435"/></g>
+<g fill="none" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-opacity=".77">
+  <path d="M796 86v14l-64 45v20M796 86v20l45 39v20M796 86v12l155 47v20M997 86v20l-156 39v20M997 86v14l-46 45v20M997 86v14l64 45v20"/>
+</g>
+<g stroke="#77A4FA" stroke-width="1.6" fill="#152544">
+  <rect x="761" y="63" width="70" height="23" rx="6"/><rect x="962" y="63" width="70" height="23" rx="6"/>
+  <rect x="704" y="166" width="56" height="28" rx="6"/><rect x="813" y="166" width="56" height="28" rx="6"/><rect x="923" y="166" width="56" height="28" rx="6"/><rect x="1033" y="166" width="56" height="28" rx="6"/>
+</g>
+<g fill="#4BD6E7"><circle cx="732" cy="180" r="3"/><circle cx="841" cy="180" r="3"/><circle cx="951" cy="180" r="3"/><circle cx="1061" cy="180" r="3"/><circle cx="796" cy="75" r="3"/><circle cx="997" cy="75" r="3"/></g>
+</svg>
