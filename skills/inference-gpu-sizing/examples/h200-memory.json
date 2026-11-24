@@ -1,0 +1,16 @@
+{
+  "memory": {
+    "parameters": 70000000000,
+    "weight_bits": 16,
+    "layers": 80,
+    "kv_heads": 8,
+    "head_dim": 128,
+    "kv_bits": 16,
+    "live_tokens": 8192,
+    "sequences": 16,
+    "gpu_vram_gib": 131.3,
+    "reserve_fraction": 0.15,
+    "tp_candidates": [1, 2, 4],
+    "kv_sharding": "ideal"
+  }
+}

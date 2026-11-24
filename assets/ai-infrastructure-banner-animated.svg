@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1200 300" role="img" aria-labelledby="title">
-<title id="title">Animated network banner. Technology meets opportunity. AI, Cloud, and Technical Solutions.</title>
+<title id="title">Animated network diagram for the C1806xixi-lin portfolio.</title>
 <defs>
   <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#132449"/></linearGradient>
   <linearGradient id="accent"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#8CAAF0"/></linearGradient>
@@ -13,12 +13,12 @@
 <rect x="1" y="1" width="1198" height="298" rx="21" fill="none" stroke="#29416C"/>
 <path d="M630 1h548a21 21 0 0 1 21 21v256a21 21 0 0 1-21 21H630z" fill="url(#grid)"/>
 <rect x="58" y="53" width="30" height="3" rx="1.5" fill="#2563EB"/>
-<text x="101" y="61" font-family="monospace" font-size="17" font-weight="600" letter-spacing="3" fill="#A2B8E6">TECHNICAL PORTFOLIO</text>
+<text x="101" y="61" font-family="monospace" font-size="17" font-weight="600" letter-spacing="3" fill="#A2B8E6">C1806xixi-lin</text>
 <g font-family="system-ui, sans-serif" font-weight="700" font-size="53" fill="#E2E8F0">
-  <text x="56" y="130">Technology meets</text>
-  <text x="56" y="186">opportunity.</text>
+  <text x="56" y="130">GPU infrastructure</text>
+  <text x="56" y="186">for healthcare AI</text>
 </g>
-<text x="59" y="230" font-family="system-ui, sans-serif" font-size="24" fill="#A2B8E6">AI · Cloud · Technical Solutions</text>
+<text x="59" y="230" font-family="system-ui, sans-serif" font-size="24" fill="#A2B8E6">Cluster design and LLM serving</text>
 <path d="M58 258H552" stroke="#29416C"/>
 <g transform="translate(0 20)">
 <g fill="none" stroke="#23395C"><rect x="654" y="38" width="485" height="186" rx="16"/><path d="M679 129h435"/></g>
