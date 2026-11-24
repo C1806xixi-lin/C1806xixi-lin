@@ -1,6 +1,6 @@
 ![Animated Midnight Blue portfolio banner: Technology meets opportunity. AI, Cloud, and Technical Solutions.](./assets/ai-infrastructure-banner-animated.svg)
 
-# Hi, I’m C1806xixi_lin
+# Hi, I’m C1806xixi-lin
 
 **Technical Solutions · AI & Cloud · Customer Enablement**
 
