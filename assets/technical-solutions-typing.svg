@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="40" viewBox="0 0 580 40" role="img" aria-labelledby="title">
+<title id="title">Turning AI requirements into practical solutions.</title>
+<style>
+.reveal { animation: reveal 1.65s steps(49, end) both; }
+@keyframes reveal { from { width: 0; } to { width: 558px; } }
+@media (prefers-reduced-motion: reduce) { .reveal { animation: none; } }
+</style>
+<rect x=".5" y=".5" width="579" height="39" rx="9" fill="#0B1220" stroke="#29416C"/>
+<defs><clipPath id="typing"><rect class="reveal" x="16" width="558" height="40"/></clipPath></defs>
+<text x="16" y="25" font-family="ui-monospace, DejaVu Sans Mono, monospace" font-size="16" fill="#E2E8F0" clip-path="url(#typing)">Turning AI requirements into practical solutions.</text>
+</svg>
