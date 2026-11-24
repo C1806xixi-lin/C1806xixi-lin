@@ -1,12 +1,24 @@
-![Midnight blue AI Infrastructure and Technical Solutions banner with a cluster network schematic](./assets/ai-infrastructure-banner.svg)
+![Midnight Blue portfolio banner: Technology meets opportunity. AI, Cloud, and Technical Solutions.](./assets/ai-infrastructure-banner.svg)
 
 # Hi, I’m C127xixi-lin
 
-**AI infrastructure · Technical support · Technical presales**
+**Technical Solutions · AI & Cloud · Customer Enablement**
 
-I’m interested in how teams turn AI requirements into infrastructure that’s practical to deploy and support. My focus is GPU cluster sizing, LLM inference capacity planning, and practical validation for AI platforms, especially in healthcare.
+![Turning AI requirements into practical solutions.](./assets/technical-solutions-typing.svg)
 
-## Featured case study
+## About Me
+
+I’m interested in making complex AI infrastructure easier to evaluate, explain, and adopt. I focus on GPU clusters, LLM serving, and healthcare AI platforms, and I’m pursuing customer-facing roles in technical support, solutions engineering, and technical sales.
+
+## Focus Areas
+
+`AI Infrastructure` · `LLM Serving` · `Technical Support` · `Solution Design`
+
+- **Requirements discovery:** Translate workload, latency, and site constraints into sizing assumptions and design trade-offs.
+- **Infrastructure planning:** Explore GPU and rack sizing, InfiniBand and RoCE trade-offs, and inference capacity.
+- **Technical validation:** Define proof-of-concept criteria for model and accelerator compatibility, performance, and reliability.
+
+## Selected Work
 
 **Sizing a 300 PFLOP/s AI training cluster**
 
@@ -53,16 +65,8 @@ This example is based on a Markdown configuration skill and an HTML report templ
 
 </details>
 
-## What I’m exploring
+## Let’s Connect
 
-- **GPU infrastructure:** sizing compute and racks, InfiniBand and RoCE trade-offs, and storage requirements.
-- **LLM serving:** prefill and decode, latency targets, and benchmark-driven capacity planning.
-- **Healthcare AI platforms:** model and accelerator compatibility, technical requirements, and proof-of-concept validation.
+[GitHub](https://github.com/C127xixi-lin) · **WeChat: inspiration1806**
 
-## Connect
-
-Outside of tech, I enjoy exploring the world. You can reach me on **WeChat: inspiration1806**.
-
-<!--
-This README appears on the C127xixi-lin GitHub profile.
--->
+Outside of tech, I enjoy exploring the world.
