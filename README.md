@@ -8,6 +8,8 @@ I’m interested in customer-facing technical support, solutions engineering, an
 
 **Education:** University of Science and Technology of China (USTC), dual degree in Electronic Information and Science Communication.
 
+[Portfolio](https://c1806xixi-lin.github.io/git.io/) · [Technical presales toolkit](https://github.com/C1806xixi-lin/inspiration)
+
 ## Projects
 
 ### [500 PFLOP/s healthcare AI compute center](./case-studies/healthcare-ai-compute-center.md)
